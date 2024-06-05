@@ -4,7 +4,7 @@ import Data from "../data/data.json";
 import Image from "next/image";
 import ReviewCard from "./review/Card";
 import Plans from "./Plans";
-import Avatar from "@nextui-org/react";
+import { Avatar } from "@nextui-org/react";
 
 export default function LandingPage() {
   return (
